@@ -1,0 +1,27 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a16d0fec-adce-ec6a-10b1-d8153a7427e6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Astrophysics I",
+  "course_description": "This course provides a graduate-level introduction to stellar astrophysics. It covers a variety of topics, ranging from stellar structure and evolution to galactic dynamics and dark matter.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.901",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
